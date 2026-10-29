@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE = 'techshala'
         CONTAINER = 'techshala'
-        PORT = '8080'
+        PORT = '5175'
     }
 
     stages {
